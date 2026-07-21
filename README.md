@@ -35,7 +35,7 @@ Estamos na fase de validação das necessidades do nosso público-alvo para cons
 
 ## 🎥 Apresentação do Projeto
 
-* 🎬 **[Clique aqui para assistir ao Vídeo Pitch do DevUp](https://drive.google.com/drive/folders/1h7pz7Ygu-btiNdiOhTL5wYWt4xS_rLEp?usp=drive_link)**
+* 🎬 **[Clique aqui para assistir ao Vídeo Pitch do DevUp]([https://drive.google.com/drive/folders/1h7pz7Ygu-btiNdiOhTL5wYWt4xS_rLEp?usp=drive_link](https://drive.google.com/file/d/1WT0g6TAq7OQHcZLYdBwfoRx1gNV04sXT/view?usp=drive_link))**
 
 ---
 
